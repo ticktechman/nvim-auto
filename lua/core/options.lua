@@ -17,6 +17,7 @@ o.termguicolors = true
 o.ignorecase = true
 o.syntax = "enable"
 o.clipboard = "unnamedplus"
+o.cursorline = true
 vim.o.undofile = true
 vim.g.mapleader = ","
 
